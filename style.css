@@ -21,3 +21,17 @@ body {
   .navbar a:hover {
     color: #ffffff;
   }
+
+  .lang-switch {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    font-family: sans-serif;
+  }
+
+  .lang-switch a {
+    text-decoration: none;
+    margin-left: 10px;
+    color: #333;
+    font-weight: bold;
+  }
